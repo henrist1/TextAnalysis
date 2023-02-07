@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TextAnalysis.TextService.props" />
+</Project>

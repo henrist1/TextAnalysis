@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "trnrByrNdKdsI7wY1RvMfs9zKF8nitY4cAFDhrvwTj0=",
+  "Source": "TextAnalysis.TextService",
+  "BasePath": "_content/TextAnalysis.TextService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
